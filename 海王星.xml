@@ -36,9 +36,8 @@
  
     });
 </script>
-<b:skin><![CDATA[
-
-]]></b:skin>
+&lt;!--<b:skin><![CDATA[]]></b:skin>
+<link href='https://bu-01.obs.cn-south-1.myhuaweicloud.com/css.css' rel='stylesheet' type='text/css'/>
 <style>
 @media screen and (max-width:1024px){
             .neptune-wrap {width: 1090px;}
